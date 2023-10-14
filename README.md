@@ -37,7 +37,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/![WhatsApp Image 2023-10-14 at 1 42 47 PM](https://github.com/vinpandia/AI-Logo-Generator/assets/110715509/787457c4-8e4c-4125-8ab3-1339647ccc1d)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/
 ) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
