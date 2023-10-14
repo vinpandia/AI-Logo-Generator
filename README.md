@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2023-10-14 at 1 42 47 PM](https://github.com/vinpandia/AI-Logo-Generator/assets/110715509/341d71e7-ccdd-42de-a8fe-6fe0be754b15)
 
 
 
@@ -18,7 +18,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.![WhatsApp Image 2023-10-14 at 1 42 47 PM](https://github.com/vinpandia/AI-Logo-Generator/assets/110715509/341d71e7-ccdd-42de-a8fe-6fe0be754b15)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
